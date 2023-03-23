@@ -24,12 +24,8 @@
 <input type="date" class="form-control" id="place_of_birth" name="birthday">
 </div>
 
-<div class="mb-3">
-<label for="exampleInputPassword1" class="form-label">Password</label>
-<input type="password" class="form-control" id="exampleInputPassword1">
-</div>
 
-<input type="submit" value="Store Person" class="btn btn-primary"></input>
+<input type="submit" name="submit_person" value="Store Person" class="btn btn-primary"></input>
 
 </form>
 
